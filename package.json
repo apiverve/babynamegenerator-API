@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/babynamegenerator",
+  "version": "1.0.0",
+  "description": "Baby Name Generator is a simple tool for generating baby names. It returns a list of baby names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/babynamegenerator-API.git"
+  },
+  "keywords": [
+    "baby name generator"," baby names"," baby name generator api"," baby names api"," baby name generator tool"," baby names tool"," baby name generator software"," baby names software"," baby name generator service"," baby names service"," baby name generator library"," baby names library"," baby name generator sdk"," baby names sdk"," baby name generator code"," baby names code"," baby name generator script"," baby names script"," baby name generator program"," baby names program"," baby name generator application"," baby names application"," baby name generator app"," baby names app"," baby name generator tool"," baby names tool"," baby name generator utility"," baby names utility"," baby name generator helper"," baby names helper"," baby name generator helper tool"," baby names helper tool"," baby name generator helper software"," baby names helper software"," baby name generator helper service"," baby names helper service"," baby name generator helper library"," baby names helper library"," baby name generator helper sdk"," baby names helper sdk"," baby name generator helper code"," baby names helper code"," baby name generator helper script"," baby names helper script"," baby name generator helper program"," baby names helper program"," baby name generator helper application"," baby names helper application"," baby name generator helper app"," baby names helper app"," baby name generator helper tool"," baby names helper tool"," baby name generator helper utility"," baby names helper utility"," baby name generator helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/babynamegenerator-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/babynamegenerator-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
