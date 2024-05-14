@@ -5,6 +5,7 @@ Baby Name Generator is a simple tool for generating baby names. It returns a lis
 
 ![Build Status](https://img.shields.io/badge/build-passing-green)
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
+![Prod Ready](https://img.shields.io/badge/production-ready-blue)
 
 This is a Javascript Wrapper for the [Baby Name Generator API](https://apiverve.com/marketplace/api/babynamegenerator)
 
@@ -143,7 +144,7 @@ Stay up to date by following [@apiverveHQ](https://twitter.com/apiverveHQ) on Tw
 
 ## Legal
 
-All usage of the mailboxlayer website, API, and services is subject to the [APIVerve Terms & Conditions](https://apiverve.com/terms) and all legal documents and agreements.
+All usage of the mailboxlayer website, API, and services is subject to the [APIVerve Terms of Service](https://apiverve.com/terms) and all legal documents and agreements.
 
 ---
 
