@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/babynamegenerator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Baby Name Generator is a simple tool for generating baby names. It returns a list of baby names.",
   "main": "index.js",
   "scripts": {
