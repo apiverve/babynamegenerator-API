@@ -72,57 +72,22 @@ api.execute(query, function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "count": 10,
+    "count": 3,
     "names": [
       {
-        "firstName": "Natalie",
-        "middleName": "Kay",
-        "fullName": "Natalie Kay"
+        "firstName": "Linda",
+        "middleName": "Ruth",
+        "fullName": "Linda Ruth"
       },
       {
-        "firstName": "Rosa",
-        "middleName": "Theresa",
-        "fullName": "Rosa Theresa"
+        "firstName": "Megan",
+        "middleName": "Maureen",
+        "fullName": "Megan Maureen"
       },
       {
-        "firstName": "Mae",
-        "middleName": "Ellen",
-        "fullName": "Mae Ellen"
-      },
-      {
-        "firstName": "Lucia",
-        "middleName": "Toni",
-        "fullName": "Lucia Toni"
-      },
-      {
-        "firstName": "Carrie",
-        "middleName": "Bonnie",
-        "fullName": "Carrie Bonnie"
-      },
-      {
-        "firstName": "Samantha",
-        "middleName": "Roberta",
-        "fullName": "Samantha Roberta"
-      },
-      {
-        "firstName": "Gwendolyn",
-        "middleName": "Constance",
-        "fullName": "Gwendolyn Constance"
-      },
-      {
-        "firstName": "Flora",
-        "middleName": "Opal",
-        "fullName": "Flora Opal"
-      },
-      {
-        "firstName": "Terry",
-        "middleName": "Linda",
-        "fullName": "Terry Linda"
-      },
-      {
-        "firstName": "Clara",
-        "middleName": "Lora",
-        "fullName": "Clara Lora"
+        "firstName": "Jill",
+        "middleName": "Jane",
+        "fullName": "Jill Jane"
       }
     ]
   }
