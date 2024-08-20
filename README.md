@@ -75,22 +75,23 @@ api.execute(query, function (error, data) {
     "count": 3,
     "names": [
       {
-        "firstName": "Linda",
-        "middleName": "Ruth",
-        "fullName": "Linda Ruth"
+        "firstName": "Stella",
+        "middleName": "Deborah",
+        "fullName": "Stella Deborah"
       },
       {
-        "firstName": "Megan",
-        "middleName": "Maureen",
-        "fullName": "Megan Maureen"
+        "firstName": "Sheryl",
+        "middleName": "Angelina",
+        "fullName": "Sheryl Angelina"
       },
       {
-        "firstName": "Jill",
-        "middleName": "Jane",
-        "fullName": "Jill Jane"
+        "firstName": "Bertha",
+        "middleName": "Brooke",
+        "fullName": "Bertha Brooke"
       }
     ]
-  }
+  },
+  "code": 200
 }
 ```
 
